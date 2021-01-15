@@ -2,4 +2,4 @@
 |:---:|:---:|:---:|:---:|:---|
 | 1주차 | 병원 개/폐업 분류 | [file](https://github.com/Sejong-Kaggle-Challengers/jeongmin/blob/main/%EB%B3%91%EC%9B%90_%EA%B0%9C%ED%8F%90%EC%97%85_%EC%97%B0%EC%8A%B5_3.ipynb)| [link](https://dacon.io/competitions/official/9565/overview/)|0.85039|
 | 2주차 | 대출 상점 총 매출 예측 | [file](https://github.com/Sejong-Kaggle-Challengers/jeongmin/blob/main/%EB%B3%91%EC%9B%90_%EA%B0%9C%ED%8F%90%EC%97%85/%EB%B3%91%EC%9B%90_%EA%B0%9C%ED%8F%90%EC%97%85_%EC%97%B0%EC%8A%B5_1.ipynb)| [link](https://dacon.io/competitions/official/136/overview/)| X |
-| 3주차 | 아파트 경매가격 예측 | [file](3주차/아파트_경매가격_예측_ver3_선형회귀.ipynb)| [link](https://dacon.io/competitions/official/17801/overview/)| 76,194,666.01312	 |
+| 3주차 | 아파트 경매가격 예측 | [file](3주차/아파트_경매가격_예측_ver5_DNN.ipynb)| [link](https://dacon.io/competitions/official/17801/overview/)| 46,073,311.68503	 |

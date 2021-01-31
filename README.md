@@ -13,4 +13,4 @@
 | 3주차 | 아파트 경매가격 예측 | [file](3주차/아파트_경매가격_예측_ver5_DNN.ipynb)| [link](https://dacon.io/competitions/official/17801/overview/)| 46,073,311.68503	 | |
 | 4주차 | 신용카드 거래 데이터 시각화 | [file](신용카드_데이터_시각화(3등).ipynb)| [link](https://dacon.io/competitions/official/42473/codeshare/429?page=1&dtype=recent&ptype=pub)| - | link의 3등 코드 분석 |
 | 5주차 | KCB 금융스타일 시각화 | [file](KCB_금융스타일_시각화.ipynb)| [link](https://dacon.io/competitions/official/136/overview/)| - | link의 4등 코드 분석 |
-| 6주차 | 퇴근시간 버스승차인원 예측 | [file](퇴근시간_버스승차인원_예측_ver1_선형회귀.ipynb)| [link](https://dacon.io/competitions/official/229255/overview/)|  | 진행중 |
+| 6주차 | 퇴근시간 버스승차인원 예측 | [file](퇴근시간_버스승차인원_예측_ver1_선형회귀.ipynb)| [link](https://dacon.io/competitions/official/229255/overview/)|  3.23622 |  |

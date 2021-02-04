@@ -14,3 +14,5 @@
 | 4주차 | 신용카드 거래 데이터 시각화 | [file](신용카드_데이터_시각화(3등).ipynb)| [link](https://dacon.io/competitions/official/42473/overview/)| - | [3등 코드](https://dacon.io/competitions/official/42473/codeshare/429?page=1&dtype=recent&ptype=pub) 분석 |
 | 5주차 | KCB 금융스타일 시각화 | [file](KCB_금융스타일_시각화.ipynb)| [link](https://dacon.io/competitions/official/82407/overview/)| - | [4등 코드](https://dacon.io/competitions/official/82407/codeshare/726?page=1&dtype=recent&ptype=pub) 분석 |
 | 6주차 | 퇴근시간 버스승차인원 예측 | [file1](퇴근시간_버스승차인원_예측_ver1_선형회귀.ipynb), [file2](6주차/퇴근시간_버스승차인원예측_1등_코드_분석.ipynb)| [link](https://dacon.io/competitions/official/229255/overview/)|  3.23622 | file1 : 직접 작성<br>file2 : [1등 코드](https://dacon.io/competitions/official/229255/codeshare/511?page=1&dtype=recent&ptype=pub) 분석|
+| 7주차 | 반도체 박막 두께 분석 예측 | [file](7주차/반도체_박막_두께_분석_경진대회.ipynb)| [link](https://dacon.io/competitions/official/235554/overview/)| - | [1등 코드](https://dacon.io/competitions/official/235554/codeshare/651?page=1&dtype=recent&ptype=pub) 분석 (MLP) |
+

@@ -16,4 +16,5 @@
 | 6주차 | 퇴근시간 버스승차인원 예측 | [file1](퇴근시간_버스승차인원_예측_ver1_선형회귀.ipynb), [file2](6주차/퇴근시간_버스승차인원예측_1등_코드_분석.ipynb)| [link](https://dacon.io/competitions/official/229255/overview/)|  3.23622 | file1 : 직접 작성<br>file2 : [1등 코드](https://dacon.io/competitions/official/229255/codeshare/511?page=1&dtype=recent&ptype=pub) 분석|
 | 7주차 | 반도체 박막 두께 분석 예측 | [file](7주차/반도체_박막_두께_분석_경진대회.ipynb)| [link](https://dacon.io/competitions/official/235554/overview/)| - | [1등 코드](https://dacon.io/competitions/official/235554/codeshare/651?page=1&dtype=recent&ptype=pub) 분석 (MLP) |
 | 8주차 | 원자력발전소 상태 판단 | -| [link](https://dacon.io/competitions/official/235551/overview/)| - | 코드공유 분석 |
+| 9주차 | 글자에 숨겨진 숫자 이미지 예측 | -| [link](https://dacon.io/competitions/official/235626/overview/)| - | 코드공유 분석 |
 

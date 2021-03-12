@@ -17,5 +17,5 @@
 | 7주차 | 반도체 박막 두께 분석 예측 | [file](7주차/반도체_박막_두께_분석_경진대회.ipynb)| [link](https://dacon.io/competitions/official/235554/overview/)| - | [1등 코드](https://dacon.io/competitions/official/235554/codeshare/651?page=1&dtype=recent&ptype=pub) 분석 (MLP) |
 | 8주차 | 원자력발전소 상태 판단 | -| [link](https://dacon.io/competitions/official/235551/overview/)| - | 코드공유 분석 |
 | 9주차 | 글자에 숨겨진 숫자 이미지 예측 | -| [link](https://dacon.io/competitions/official/235626/overview/)| - | 코드공유 분석 |
-| 12주차 | Tabular Playground Series | -| [link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview)| 0.76693 |  |
+| 12주차 | Tabular Playground Series | [file](https://github.com/Sejong-Kaggle-Challengers/jeongmin/tree/main/13%EC%A3%BC%EC%B0%A8)| [link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview)| 0.76693 |  |
 

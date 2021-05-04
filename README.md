@@ -18,4 +18,4 @@
 | 8주차 | 원자력발전소 상태 판단 | -| [link](https://dacon.io/competitions/official/235551/overview/)| - | 코드공유 분석 |
 | 9주차 | 글자에 숨겨진 숫자 이미지 예측 | -| [link](https://dacon.io/competitions/official/235626/overview/)| - | 코드공유 분석 |
 | 12주차 | Tabular Playground Series | [file](https://github.com/Sejong-Kaggle-Challengers/jeongmin/tree/main/13%EC%A3%BC%EC%B0%A8)| [link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview)| 0.76693 |  |
-| 16주차 | 월간 데이콘 14.신용카드 사용자 연체 예측 | [file](월간데이콘_14/신용카드_사용자_연체_예측_AI_경진대회 (1).ipynb)| [link](https://dacon.io/competitions/official/235713/overview/description/)| 0.99015 | 대회 도전(log_loss) |
+| 16주차 | 월간 데이콘 14.신용카드 사용자 연체 예측 | [file](월간데이콘_14/신용카드_사용자_연체_예측_AI_경진대회(1).ipynb)| [link](https://dacon.io/competitions/official/235713/overview/description/)| 0.99015 | 대회 도전(log_loss) |
